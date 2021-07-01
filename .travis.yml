@@ -1,3 +1,17 @@
-language: node_js
+os: linux
+arch:
+  - arm64
+  - ppc64le
+  - s390x
 
-script: npm run lint && npm test
+language: node_js
+node_js: 12
+
+branches:
+  only: master  # ветка git
+
+cache: yarn
+
+install: yarn install
+
+script: yarn lint && yarn test
