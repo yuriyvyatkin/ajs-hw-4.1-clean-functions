@@ -1,6 +1,6 @@
 # Домашнее задание №1 к лекции «Unit-тестирование»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/bic06qfoibat8det?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ajs-hw-4-1-clean-functions)
+[![Build status](https://ci.appveyor.com/api/projects/status/9c85bryl4m8nvf9h?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ajs-hw-4-1-clean-functions)
 
 ## Чистые функции
 
